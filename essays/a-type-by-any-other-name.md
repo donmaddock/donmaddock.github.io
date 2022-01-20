@@ -21,7 +21,15 @@ Stop. Can't we just call it something else?
 
 ## False Friends
 
-Now, none of this is Javascript's fault. After all, the same issue might happen to a person who started with Javascript trying to learn a strongly typed language. It's not a programming excluse problem either. In spoken langauges, this is sometimes referred to as a "false friend". For example, the Spanish word for Library would be "biblioteca". However, the Spanish word for a book shop, somewhere you'd actually *buy* books rather than borrow, is librería. You might see the word librería at a glance and think you know excatly what it means because you know the word "library", but you'd be incorrect because of it. It's a minor nusiance but nothing more. I'm sure in the end it'd be even more annoying if every programming language had some different name to describe what is more or less the same idea. With enough practice, you won't even rember it as an issue.
+Now, none of this is Javascript's fault. After all, the same issue might happen to a person who started with Javascript trying to learn a strongly typed language. It's not a programming excluse problem either. In spoken langauges, this is sometimes referred to as a "false friend".
+
+For example, the Spanish word for Library would be "biblioteca". However, the Spanish word for a book shop, somewhere you'd actually *buy* books rather than borrow, is librería. You might see the word librería at a glance and think you know excatly what it means because you know the word "library", but you'd be incorrect because of it.
+
+It's a minor nusiance but nothing more. I'm sure in the end it'd be even more annoying if every programming language had some different name to describe what is more or less the same idea. With enough practice, you won't even rember it as an issue.
 
 ## Putting it to Use
-And by far my favorite kind of practice so for ICS classes has been the athletic programming. Fun challenges to test what you know and try to quickly Google what you don't. The time pressure I find helps keep me focused and on track. I've always liked the *idea* of those programming challenges, but never actually go out and do them. With JSFiddle it's super quick and easy to take a crack at them. Looking at my professor's or other people's solutions after I'd tried myself is also very informative. While my solution might be written in Javascript, seeing a solution that actually uses the langauge to the fullest really helps you learn the tricks. I'm *still* blown away by that isUnique WOD solution.
+And by far my favorite kind of practice so for ICS classes has been the athletic programming. Fun challenges to test what you know and try to quickly Google what you don't. The time pressure I find helps keep me focused and on track.
+
+I've always liked the *idea* of those programming challenges, but never actually go out and do them. With JSFiddle it's super quick and easy to take a crack at them. Looking at my professor's or other people's solutions after I'd tried myself is also very informative.
+
+While my solution might be written in Javascript, seeing a solution that actually uses the langauge to the fullest really helps you learn the tricks. I'm *still* blown away by that isUnique WOD solution.
