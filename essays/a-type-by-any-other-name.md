@@ -13,9 +13,9 @@ labels:
 
  It's interesting how what you know can sometimes impede you from what you want to learn. This was the case for me learning Javascript. The language offers a ton of new features and flexability, but it can be hard to use any of it because I was still "think" in the languages I know. You learn a concept or idea that's just similar enough to think you have it down fine but *just* different enough to throw you for a loop (for...in loops also were a culprit of this). My inner monolouge the first few days was along the lines of:
  
- > Okay, instead of delaring types you just use var. That's neat. Oh. But it seems like everyone wants you to use let or const instead. I'll learn about let, and const works just like I'm used to right? 
+ > "Okay, instead of delaring types you just use var. That's neat. Oh. But it seems like everyone wants you to use let or const instead. I'll learn about let, and const works just like I'm used to right?" 
 
- > Yes but you're still allowed change properties of objects. And by when we say "objects" it's more like a key value pairs that work a little differently than-
+ > "Yes but you're still allowed change properties of objects. And by when we say "objects" it's more like a key value pairs that work a little differently than-"
 
 Stop. Can't we just call it something else?
 
