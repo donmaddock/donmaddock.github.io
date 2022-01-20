@@ -9,7 +9,7 @@ labels:
   - Learning
 ---
 
-## It's the wild west out there, where you can return what you want and push what you like.
+## It's the Wild West out there, where you can return what you want and push what you like.
 
  It's interesting how what you know can sometimes impede you from what you want to learn. This was the case for me learning Javascript. The language offers a ton of new features and flexibility, but it can be hard to use any of it because I was still "thinking" in the languages I know. You learn a concept or idea that's just similar enough to think you have it down fine but *just* different enough to throw you for a loop (for...in loops were a culprit of this). My inner monologue the first few days was along the lines of:
  
