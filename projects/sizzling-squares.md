@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/sssquare.jpg
 title: Micromouse
 permalink: projects/sizzlingsquares
 # All dates must be YYYY-MM-DD format!
@@ -13,7 +13,7 @@ labels:
 summary: Final Project for ICS 369
 ---
 
-<img class="ui medium right floated rounded image" src="../images/pong.gif">
+<img class="ui medium right floated rounded image" src="../images/sssquare.png">
 
 My final project for ICS 369. Yet another recreation of a small game I really enjoyed as a child. What I really enjoyed from this one was putting my ideal "trifecta" of hobbies to work. The game was programmed entirely by me in unity, with a quick, repetitive bass line I made in FL Studio to accompany a snowman I modeled in my ACM 215 class *very* recently. The model was actually made weeks after the game was. Being able to quickly replace it from the original capsule placeholder, without the game completely breaking, was a proud moment for me. Turns out decoupling code can be pretty helpful!
  
