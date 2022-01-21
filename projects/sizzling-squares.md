@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/sssquare.jpg
+image: images/sssquare.png
 title: Sizzling Squares
 permalink: projects/sizzlingsquares
 # All dates must be YYYY-MM-DD format!
