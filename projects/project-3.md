@@ -20,11 +20,11 @@ It was a fun experience in which I learned many different things:
 <ul>
   <li>The piano roll of the program and creating musical patterns</li>
   <li>Listening out for many different instruments and trying to find the notes by ear</li>
-  <li>"Soundfonts", the specfic MIDI instruments to really get that old school sound</li>
+  <li>"Soundfonts", the specific MIDI instruments to really get that old school sound</li>
   <li>VSTs, additional plugins to actually use the soundfont</li>
   <li>Audio mixing, a beast I for sure need more practice with</li>
 </ul>
 
-After listening to that cowbell for hours, I also decided to try and mix in *another* song I heard a lot as a kid as it sounding pretty similar.
+After listening to that cowbell for hours, I also decided to try and mix in *another* song I heard a lot as a kid as it sounded pretty similar.
 Listen to the song <a href="https://soundcloud.com/user-32744041/george-lopez-shop-theme">here</a>
 
