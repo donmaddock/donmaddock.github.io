@@ -5,8 +5,8 @@ title: I want to make games
 # All dates must be YYYY-MM-DD format!
 date: 2022-01-19
 labels:
-  - Javascript
-  - Learning
+  - Programming
+  - Game Development
 ---
 
 *I really should get used to saying that.*
