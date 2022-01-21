@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/pongsquare.png
 title: Pong With Guns
 permalink: projects/pong
 # All dates must be YYYY-MM-DD format!
