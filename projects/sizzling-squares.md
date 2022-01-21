@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/sssquare.jpg
-title: Micromouse
+title: Sizzling Squares
 permalink: projects/sizzlingsquares
 # All dates must be YYYY-MM-DD format!
 date: 2021-12-01
