@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/flsquare.png
 title: Zelda Music Recreation
 permalink: projects/shoptheme
 # All dates must be YYYY-MM-DD format!
@@ -11,7 +11,7 @@ labels:
 summary: Recreating a classic song in FL Studio
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/zeldafl.png">
 
 In an effort to learn the ins and outs of FL Studio, a digital audio workstation for making music, I decided to try and transcribe the shop theme from one of my favorite childhood games "The Legend of Zelda: Ocarina of Time".
 
