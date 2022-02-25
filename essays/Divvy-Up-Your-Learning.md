@@ -1,3 +1,4 @@
+---
 layout: essay
 type: essay
 title: Div-vy Up Your Learning
