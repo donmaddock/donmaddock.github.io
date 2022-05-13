@@ -12,7 +12,7 @@ labels:
 summary: Recreation of popular game in using React
 ---
 
-<img class="ui medium right floated rounded image" src="../images/wordle.png">
+<img class="ui image" src="../images/wordle.png">
 
 ## What is Wordle?
 
