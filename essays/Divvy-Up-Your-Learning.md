@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+published: false
 title: Div-vy Up Your Learning
 # All dates must be YYYY-MM-DD format!
 date: 2022-02-24
