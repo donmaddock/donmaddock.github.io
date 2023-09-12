@@ -2,6 +2,7 @@
 layout: essay
 type: essay
 title: Lint Lessons
+published: false
 # All dates must be YYYY-MM-DD format!
 date: 2022-02-10
 labels:
