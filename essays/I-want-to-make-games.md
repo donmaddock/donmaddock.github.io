@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+published: false
 title: I want to make games
 # All dates must be YYYY-MM-DD format!
 date: 2022-01-19
