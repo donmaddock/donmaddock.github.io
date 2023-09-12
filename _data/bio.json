@@ -3,8 +3,8 @@
     "name": "Don Maddock",
     "label": "Student",
     "picture": "https://donmaddock.github.io/images/square-profile.jpg",
-    "email": "dmaddock@hawaii.edu",
-    "phone": "",
+    "email": "donmaddokc@gmail.com",
+    "phone": "808-639-1523",
     "website": "https://donmaddock.github.io",
     "summary": "I am studying Computer Science and Creative Media at the University of Hawaii. I expect to graduate in 2023.",
     "location": {
@@ -49,11 +49,12 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
+        "React",
         "C#",
-        "Java",
         "Javascript",
-        "Japanese",
-        "React"
+        "Typescript",
+        "Java",
+        "SQL"
       ]
     },
     {
@@ -62,6 +63,12 @@
       "keywords": [
         "Unity",
         "Blender",
+        "Maya",
+        "Photoshop"
+        "Premiere"
+        "Excel"
+        "Windows"
+        "Linux"
         "FL Studio"
       ]
     }
@@ -94,8 +101,8 @@
       "position": "Outdoor Greeting Service",
       "website": "",
       "startDate": "2019",
-      "endDate": "Present",
-      "summary": "Coordinate start times of golf rounds and attend to needs of club memebers",
+      "endDate": "2023",
+      "summary": "Responsible for preparing, cleaning, and safely storing golf carts for daily use. Provided service and hospitality to golfers, such as club cleaning and managing start times. Interacted with a large group of recurring club members as well as Japanese tourists I could communicate with when needed.",
       "highlights": [
       ]
     },
@@ -105,15 +112,9 @@
       "website": "",
       "startDate": "2014",
       "endDate": "2017",
-      "summary": "Help set up, maintain, troubleshoot, and repair various technologoy on campus",
+      "summary": "Assisted school staff by solving and repairing various technology problems. This included hardware replacement, internet troubleshooting, and overall maintenance. Other tasks included keeping inventory, as well as unboxing and setting up large quantities of electronic devices.",
       "highlights": [
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
     }
   ]
 }
