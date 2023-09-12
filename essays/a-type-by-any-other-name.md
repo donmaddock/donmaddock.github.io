@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+published: false
 title: A Type by Any Other Name
 # All dates must be YYYY-MM-DD format!
 date: 2022-01-19
