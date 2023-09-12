@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+published: false
 title: Pareto Programming
 # All dates must be YYYY-MM-DD format!
 date: 2022-05-12
