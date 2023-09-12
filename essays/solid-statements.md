@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+published: false
 title: Solid Statements
 # All dates must be YYYY-MM-DD format!
 date: 2022-04-28
