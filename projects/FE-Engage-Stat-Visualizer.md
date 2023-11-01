@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-published: false
+published: true
 image: images/chart.png
 title: FE Engage Growth Rate Visualizer
 permalink: projects/engagechart
