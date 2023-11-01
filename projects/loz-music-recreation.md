@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+published: false
 image: images/flsquare.png
 title: Zelda Music Recreation
 permalink: projects/shoptheme
