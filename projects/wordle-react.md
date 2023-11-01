@@ -14,6 +14,8 @@ summary: Recreation of popular game in using React
 
 <img class="ui image" src="../images/wordle.png">
 
+### <a href="https://donmaddock.github.io/wordle-react/">Try out my copy!</a>
+
 ## What is Wordle?
 
 Wordle is a game made by programmer Josh Wardle for his wife, which later was sold to the New York Times for "an amount over seven figures”. You are given 6 chances to guess a five letter word, which each guess gives you clues about the letters for the word (think Mastermind with words). I believe two aspects that led to the original's success was the social and restrictive aspect of the game. In the original, the game could be only played once a day, with every player having the same word that day. Being able to share your game results on social media generates a ton of free advertisement and interactivity, and the "one a day" nature not only adds anticipation for the next day but also adds to the game's "brand". Just as Twitter limits you to 280 characters or Instagram requires you to post photos or videos, the daily restriction gave Wordle its identity.
