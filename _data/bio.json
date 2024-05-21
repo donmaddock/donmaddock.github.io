@@ -6,11 +6,11 @@
     "email": "donmaddokc@gmail.com",
     "phone": "808-639-1523",
     "website": "https://donmaddock.github.io",
-    "summary": "I am studying Computer Science and Creative Media at the University of Hawaii. I expect to graduate in 2023.",
+    "summary": "College graduate currently pursuing a career in software development.",
     "location": {
       "address": "",
-      "postalCode": "96706",
-      "city": "Ewa Beach",
+      "postalCode": "96822",
+      "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
     },
@@ -79,7 +79,7 @@
       "area": "Computer Science, Creative Media",
       "studyType": "B.A.",
       "startDate": "2020-01-09",
-      "endDate": "Present",
+      "endDate": "2024-05-20",
       "gpa": "",
       "courses": [
       ]
@@ -96,6 +96,16 @@
     }
   ],
   "work": [
+        {
+      "company": "University of Hawaii",
+      "position": "Digitizing Project Support",
+      "website": "",
+      "startDate": "2023",
+      "endDate": "2024",
+      "summary": "Responsible for taking pictures or scanning various library media for the purpose of digitization and preservation.",
+      "highlights": [
+      ]
+    },
     {
       "company": "Hoakalei Country Club",
       "position": "Outdoor Greeting Service",
